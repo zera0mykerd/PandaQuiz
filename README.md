@@ -1,3 +1,6 @@
+
+<img width="969" height="823" alt="1" src="https://github.com/user-attachments/assets/ace8bd69-3865-468d-9ad1-e61c6224eca9" />
+
 # 🐼 PandaQuiz Patente A/B 🇮🇹
 
 Benvenuti su **PandaQuiz**, l'applicazione web open-source definitiva per esercitarsi sui quiz della patente di guida italiana (A/B). Creato da **zMykerd**, questo strumento combina un'interfaccia moderna ed elegante con funzionalità avanzate di tracciamento dei progressi per aiutarti a superare l'esame teorico con facilità.
