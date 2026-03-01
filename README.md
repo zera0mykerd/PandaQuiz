@@ -1,5 +1,6 @@
 
-<img width="969" height="823" alt="1" src="https://github.com/user-attachments/assets/ace8bd69-3865-468d-9ad1-e61c6224eca9" />
+<img width="1375" height="635" alt="pat" src="https://github.com/user-attachments/assets/35269e0b-75c9-462f-ae5f-0f43cf134e28" />
+
 
 # 🐼 PandaQuiz Patente A/B 🇮🇹
 
